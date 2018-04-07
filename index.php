@@ -1,0 +1,1 @@
+<?php echo 'displaying content from PHP'; ?>
