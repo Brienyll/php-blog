@@ -1,4 +1,10 @@
+<?php include 'config/config.php'; ?>
+<?php include 'libraries/Database.php'; ?>
 <?php include 'includes/header.php'; ?>
+<?php 
+  $db = new Database();
+?>
+
 <div class="blog-post">
             <h2 class="blog-post-title">Endless</h2>
             <p class="blog-post-meta">April 7, 2018 by <a href="#">Mark</a></p>

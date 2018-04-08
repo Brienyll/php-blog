@@ -31,7 +31,7 @@
 
       <div class="blog-header">
         <div class="logo"><img src="images/logo.png" /></div>
-        <h1 class="blog-title">Quantum Solutions Blog</h1>
+        <h1 class="blog-title">Quantum Blog</h1>
         <p class="lead blog-description">The Blogger Boys</p>
       </div>
 
